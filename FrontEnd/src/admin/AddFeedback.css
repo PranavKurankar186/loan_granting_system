@@ -1,0 +1,24 @@
+.add_feedback{
+    display: flex;
+    width: 100%;
+   justify-content: center;
+}
+.feedback{
+    background-color: rgb(242, 242, 242);
+    padding: 50px 20px;
+    width: 50%;
+    border-radius: 10px;
+}
+.feedback>input{
+    padding: 10px;
+}
+.feedback>button{
+    padding: 5px 10px;
+    border:none;
+    color: white;
+    background-color: rgb(104, 104, 104);
+}
+.feedback>button:hover{
+    background-color: black;
+    color: white;
+}

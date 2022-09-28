@@ -1,0 +1,13 @@
+.navList-1{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.navList-1>a:hover{
+  background-color: rgb(249, 249, 249);
+  color: black;
+}
+.navList-2>a:hover{
+    background-color: rgb(249, 249, 249);
+    color: black;
+  }

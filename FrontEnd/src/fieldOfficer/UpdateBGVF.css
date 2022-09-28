@@ -1,0 +1,17 @@
+.update_BGVF{
+    background-color: rgb(238, 238, 238);
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+.update_BGVF>div>input{
+    text-align: right !important;
+    float: right !important;
+    width: 50% !important
+}
+
+.BGVF_fields textarea{
+    vertical-align: top;
+}
